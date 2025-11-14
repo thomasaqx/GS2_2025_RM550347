@@ -1,5 +1,9 @@
 # GS2_2025_RM550347
 
+## LINK DO GITHUB
+
+https://github.com/thomasaqx/GS2_2025_RM550347
+
 Um aplicativo Android nativo desenvolvido como um projeto acadêmico. O aplicativo é construído inteiramente em Kotlin e utiliza o Jetpack Compose para a interface do usuário.
 
 ## 🚀 Funcionalidades
@@ -29,4 +33,5 @@ Um aplicativo Android nativo desenvolvido como um projeto acadêmico. O aplicati
 
 * [cite_start]Weverton Luis RM98730 [cite: 15]
 * [cite_start]Thomas Abner RM550347 [cite: 15]
+
 
